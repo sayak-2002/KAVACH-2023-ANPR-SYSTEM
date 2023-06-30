@@ -27,19 +27,3 @@
 ## Step 4: Run the Streamlit UI
  - Run `streamlit run app.py`
  
- Click on the image to see full view.
- <table style="width:100%">
-  <tr>
-    <td><img src="https://i.imgur.com/9xqhmps.png" width="500px" height=150px/></td>
-    <td><img src="https://i.imgur.com/wVvrsVv.png" width="500px" height=150px/></td>
-    <td><img src="https://i.imgur.com/lPeUea7.png" width="500px" height=150px/></td>
-   <td><img src="https://i.imgur.com/rhOMFNk.png" width="500px" height=150px/></td>
-   </tr>
-</table>
-
-## Download Trained Model
-- [Trained Model](https://1drv.ms/u/s!AtyOj2mfb9L6pFVGa1l5BX2uqerK?e=zaiCMd)
-
-## See Streamlit App and Object Detection Installation
-  - [Streamlit App](https://github.com/mazqoty/Tensorflow-Object-Detection-Installation-and-ANPReasyOCR-Streamlit-App)
- 
