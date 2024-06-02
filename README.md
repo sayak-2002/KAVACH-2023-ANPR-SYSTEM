@@ -27,3 +27,5 @@
 ## Step 4: Run the Streamlit UI
  - Run `streamlit run app.py`
  
+## Link to Canva Presentation of the Project
+ - Go [Canva](https://www.canva.com/design/DAFgKGGexVU/J7sS8TtyEFKXCdyQHrKZlg/edit)
